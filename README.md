@@ -19,12 +19,16 @@ Nos muestra el bit allí nos explica como esta compuesto el bit(representando un
 # Capitulo 2
 Componentes, tipos y conexiones de red
 
-En el capitulo dos nos habla sobre los roles de los dispositivos y las tecnologías de conexión a Internet, nos indica que cualqueir computadora puede actuar como cliente, servidor o ambos, suele ser mas econonomico y mas faciles de configurar pero también mas inseguro, debido a que no cuenta con un administrador
+En el capitulo nos explica fundamentos de las redes de datos, detallando como los host asumen roles de cliente, servidor o ambos según su sofware, nos habla de las redes entre pares como una solución economica y facil para empresas pequeñas aunque también nos indica que esto suele ser con algunas limitaciones de seguridad. 
+allí también nombra los dispositivos dinales , intermedios de conexión y las tecnologias comunes como cable DSL que permite el acceso a la red global.
+ 
+Continuando con el contenido del capitlo 2 , no habla sobre las redebes y aplicaciones entre pares, nos indica que en este caso las computadoras funcionan simultanemente como cliente y servidores, suelen ser mas economicas y mas faciles de configurar  pero no tienen una adiminitrador centralizada, y su rendimiento puede ser afectado.
+
+Frente a la infraestructura y dispositivos finales de las que nos hablan en este capitulo consta de tres categorias: dispositivos finales, dispositivos intermedios y medios de red
 
 # Palabras claves:
 Servidores:Son computadoras con software que les permite proporcionar información o servicios, ejemplo correo o paginas web.
 Clientes: Son computadoras con software que les permite solicitar y mostrar la información obtenida del servido
+DSL:Funciona sobre la línea telefónica, dividiéndola en tres canales: uno para voz, otro para descarga de datos (más rápido) y otro para subida
+Cable: 
 
-Continuando con el contenido del capitlo 2 , no habla sobre las redebes y aplicaciones entre pares, nos indica que en este caso las computadoras funcionan simultanemente como cliente y servidores, como lo indique anteriormente suelen ser mas economicas y mas faciles de configurar  pero no tienen una adiminitrador centralizada, y su rendimiento puede ser afectado.
-
-Frente a la infraestructura y dispositivos finales de las que nos hablan en este capitulo consta de tres categorias: dispositivos finales, dispositivos intermedios y medios de red
